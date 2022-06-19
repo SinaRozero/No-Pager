@@ -1,5 +1,9 @@
 # No-Pager
 No need to answer the pager in Payday 2
 
-Put it into you Payday 2 *Mods* folder direction.
-Example: C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\mods
+*INSTALLATION
+1) CD in your PAYDAY2/mods folder
+2) Clone the repository
+```
+git clone https://github.com/SinaRozero/No-Pager No-Pager
+```
